@@ -6,4 +6,11 @@ By [Dong Won Lee](https://dongwonl.com/) (dongwonl@mit.edu), [Personal Robots Gr
 
 ## Social Intelligence Definitions
 
-[The measurement of social intelligence.](https://psycnet.apa.org/buy/1928-03750-001), Journal of Applied Psychology, 1928
+[The measurement of social intelligence](https://psycnet.apa.org/buy/1928-03750-001), Journal of Applied Psychology, 1928
+
+
+# Resources
+
+## Workshops
+
+[Social Intelligence in Humans and Robots](https://social-intelligence-human-ai.github.io/), ICRA 2021
