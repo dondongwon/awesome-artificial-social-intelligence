@@ -8,7 +8,7 @@ By [Dong Won Lee](https://dongwonl.com/) (dongwonl@mit.edu) from the [Personal R
 
 ## Psychology and Neural Perspectives on Social Intelligence
 
-[The media equation: How people treat computers, television, and new media like real people and places](https://psycnet.apa.org/buy/1928-03750-001), Stanford, 1996
+[The media equation: How people treat computers, television, and new media like real people and places](https://psycnet.apa.org/record/1996-98923-000), Stanford, 1996
 
 
 
