@@ -21,11 +21,12 @@ If there are any topics, papers, or datasets we missed, please let us know! Feel
 
 | Dataset | Domain | Paper | Data|
 |:-----------:|:----------------------------:|:------------:|:------------:|
-| Social-IQ | Multimodal Video QA | [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
-
-""")
+| [`Social-IQ`] | Multimodal Video QA | [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
 
 ## Resources
+
+### Relevant Courses 
+[Multimodal Probabilistic Learning of Human Communication](https://people.ict.usc.edu/~soleymani/files/HumanCommunicationLearning-Spring2021.pdf), Mohammad Soleymani @ USC, Spring 2021
 
 ### Workshops
 
