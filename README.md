@@ -18,6 +18,8 @@ If there are any topics, papers, or datasets we missed, please let us know! Feel
 [Towards Social Artificial Intelligence:
 Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf) CVPR, 2019 
 
+[Learning Social Affordance for Human-Robot Interaction](https://arxiv.org/pdf/1604.03692v2.pdf), IJCAI, 2016
+
 ## Applications 
 
 ## Datasets
