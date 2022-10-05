@@ -60,5 +60,7 @@ Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.
 
 [A Bayesian Theory of Mind Approach to Nonverbal Communication for Human-Robot Interactions](https://www.media.mit.edu/publications/jinjoolee-phd-2017/), 2017, Jin Joo Lee
 
+[Towards Human-Centered Optimality Criteria](https://dspace.mit.edu/bitstream/handle/1721.1/140992/ghandeharioun-asma_gh-phd-MAS-2021-thesis.pdf?sequence=1&isAllowed=y), 2021, Asma Ghandeharioun
+
 
 
