@@ -28,7 +28,7 @@ Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.
 |:-----------|:----------------------------|:------------:|:------------:|
 | `PATS` | multimodal co-speech gestures | [ECCV 2020 paper](https://arxiv.org/abs/2007.12553) | [data](https://chahuja.com/pats/) + [code](https://github.com/chahuja/pats)
 |`Social-IQ`| multimodal video qa | [CVPR 2019 paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) | [data + code](https://github.com/A2Zadeh/Social-IQ)
-|`Social-QA`| language qa | [CVPR 2019 paper](https://arxiv.org/pdf/1904.09728.pdf) | [data + code](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/social_iqa/README.md)
+|`Social-IQa`| language qa | [EMNLP 2019 paper](https://arxiv.org/pdf/1904.09728.pdf) | [data + code](https://github.com/google/BIG-bench/blob/main/bigbench/benchmark_tasks/social_iqa/README.md)
 |`CMU-MOSEI`| multimodal sentiment and emotion intensity | [ACL 2018 paper](https://aclanthology.org/P18-1208.pdf) | [data + code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 | `IEMOCAP` | multimodal emotional dyadic motion capture | [LREC 2008 paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
 | `RoomReader` | multimodal multiparty engagement in online conference | [LREC 2022 paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.268.pdf) | [data](https://sigmedia.tcd.ie/) 
