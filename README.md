@@ -21,7 +21,7 @@ Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.
 
 [Didn’t see that coming: a survey on non-verbal social human behavior forecasting](https://arxiv.org/pdf/1604.03692v2.pdf), PMLR, 2022
 
-[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://openaccess.thecvf.com/content/CVPR2022/papers/Ng_Learning_To_Listen_Modeling_Non-Deterministic_Dyadic_Facial_Motion_CVPR_2022_paper.pdf), CVPR 2022
+[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion(https://openaccess.thecvf.com/content/CVPR2022/papers/Ng_Learning_To_Listen_Modeling_Non-Deterministic_Dyadic_Facial_Motion_CVPR_2022_paper.pdf), CVPR 2022
 
 [Socially and contextually aware human motion and pose forecasting](https://ras.papercept.net/images/temp/IROS/files/2815.pdf) IROS 2020
 
@@ -39,8 +39,7 @@ Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.
 | `IEMOCAP` | multimodal emotional dyadic motion capture | [LREC 2008 paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
 | `RoomReader` | multimodal multiparty engagement in online conference | [LREC 2022 paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.268.pdf) | [data](https://sigmedia.tcd.ie/) 
 | `MUMBAI` | multi-person, multimodal board game affect and interaction analysis dataset | [Journal on Multimodal User Interfaces 2021 paper](https://link.springer.com/article/10.1007/s12193-021-00364-0) | [data](https://github.com/dmetehan/MUMBAI) 
-| `iMiGUE` | An Identity-free Video Dataset for Micro-Gesture Understanding and
-Emotion Analysis | [CVPR 2022 paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_iMiGUE_An_Identity-Free_Video_Dataset_for_Micro-Gesture_Understanding_and_Emotion_CVPR_2021_paper.pdf) | [data]((https://github.com/linuxsino/iMiGUE)) 
+| `iMiGUE` | An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis | [CVPR 2022 paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_iMiGUE_An_Identity-Free_Video_Dataset_for_Micro-Gesture_Understanding_and_Emotion_CVPR_2021_paper.pdf) | [data]((https://github.com/linuxsino/iMiGUE)) 
 
 
 
