@@ -23,7 +23,7 @@ Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.
 
 [Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://openaccess.thecvf.com/content/CVPR2022/papers/Ng_Learning_To_Listen_Modeling_Non-Deterministic_Dyadic_Facial_Motion_CVPR_2022_paper.pdf), CVPR 2022
 
-[Socially and contextually aware human motion and pose forecasting] (https://ras.papercept.net/images/temp/IROS/files/2815.pdf) IROS 2020
+[Socially and contextually aware human motion and pose forecasting](https://ras.papercept.net/images/temp/IROS/files/2815.pdf) IROS 2020
 
 
 ## Applications 
