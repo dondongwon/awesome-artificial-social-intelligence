@@ -12,13 +12,19 @@ If there are any topics, papers, or datasets we missed, please let us know! Feel
 
 [The media equation: How people treat computers, television, and new media like real people and places](https://psycnet.apa.org/record/1996-98923-000), Stanford, 1996
 
-
 ## Artificial Social Intelligence
 
 [Towards Social Artificial Intelligence:
 Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf) CVPR, 2019 
 
 [Learning Social Affordance for Human-Robot Interaction](https://arxiv.org/pdf/1604.03692v2.pdf), IJCAI, 2016
+
+[Didn’t see that coming: a survey on non-verbal social human behavior forecasting](https://arxiv.org/pdf/1604.03692v2.pdf), PMLR, 2022
+
+[Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion](https://openaccess.thecvf.com/content/CVPR2022/papers/Ng_Learning_To_Listen_Modeling_Non-Deterministic_Dyadic_Facial_Motion_CVPR_2022_paper.pdf), CVPR 2022
+
+[Socially and contextually aware human motion and pose forecasting] (https://ras.papercept.net/images/temp/IROS/files/2815.pdf) IROS 2020
+
 
 ## Applications 
 
@@ -32,8 +38,12 @@ Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.
 |`CMU-MOSEI`| multimodal sentiment and emotion intensity | [ACL 2018 paper](https://aclanthology.org/P18-1208.pdf) | [data + code](https://github.com/A2Zadeh/CMU-MultimodalSDK)
 | `IEMOCAP` | multimodal emotional dyadic motion capture | [LREC 2008 paper](https://link.springer.com/content/pdf/10.1007/s10579-008-9076-6.pdf) | [data](https://sail.usc.edu/software/databases/) 
 | `RoomReader` | multimodal multiparty engagement in online conference | [LREC 2022 paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.268.pdf) | [data](https://sigmedia.tcd.ie/) 
+| `MUMBAI` | multi-person, multimodal board game affect and interaction analysis dataset | [Journal on Multimodal User Interfaces 2021 paper](https://link.springer.com/article/10.1007/s12193-021-00364-0) | [data](https://github.com/dmetehan/MUMBAI) 
+| `iMiGUE` | An Identity-free Video Dataset for Micro-Gesture Understanding and
+Emotion Analysis | [CVPR 2022 paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_iMiGUE_An_Identity-Free_Video_Dataset_for_Micro-Gesture_Understanding_and_Emotion_CVPR_2021_paper.pdf) | [data]((https://github.com/linuxsino/iMiGUE)) 
 
-https://arxiv.org/pdf/1904.09728.pdf
+
+
 
 
 ## Resources
