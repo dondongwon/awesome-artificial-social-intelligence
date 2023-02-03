@@ -10,13 +10,13 @@ If there are any topics, papers, or datasets we missed, please let us know! Feel
 
 [ Social Intelligence](https://www.ocf.berkeley.edu/~jfkihlstrom/PDFs/2010s/2011/KihlstromCantor_SocialIntelligence_3e_2011.pdf), Handbook of intelligence, 2000
 
-[Getting to know each other—Artificial social intelligence for autonomous robots](https://www.sciencedirect.com/science/article/abs/pii/0921889095000542), Robotics and autonomous systems, 1995
-
 ## Psychology and Neural Perspectives on Social Intelligence
 
 [The media equation: How people treat computers, television, and new media like real people and places](https://psycnet.apa.org/record/1996-98923-000), Stanford, 1996
 
 ## Artificial Social Intelligence
+
+[Getting to know each other—Artificial social intelligence for autonomous robots](https://www.sciencedirect.com/science/article/abs/pii/0921889095000542), Robotics and autonomous systems, 1995
 
 [Towards Social Artificial Intelligence:
 Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Joo_Towards_Social_Artificial_Intelligence_Nonverbal_Social_Signal_Prediction_in_a_CVPR_2019_paper.pdf) CVPR, 2019 
