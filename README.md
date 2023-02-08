@@ -30,6 +30,9 @@ Nonverbal Social Signal Prediction in A Triadic Interaction](https://openaccess.
 [Socially and contextually aware human motion and pose forecasting](https://ras.papercept.net/images/temp/IROS/files/2815.pdf) IROS 2020
 
 
+[The Handbook on Socially Interactive Agents](https://dl.acm.org/doi/pdf/10.1145/3477322)
+
+
 ## Applications 
 
 ## Datasets
